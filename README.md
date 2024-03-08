@@ -1,4 +1,4 @@
 # prakrikum-strukdat
-Nama  = chelsisdeo
+Nama  = chelsisdeo/n
 Nim   = 2311110016
 Kelas = SD04-A
